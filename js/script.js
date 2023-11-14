@@ -55,7 +55,7 @@ window.onscroll = () => {
 // });
 
 var typed = new Typed('.multiple-text', {
-  strings: ['a Learner.', 'a Physics lover.', 'a Collection Of Particles.'],
+  strings: ['Astrophile', 'made of stardust'],
   typeSpeed: 100,
   backSpeed: 100,
   backDelay: 1000,
